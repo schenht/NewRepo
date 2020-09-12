@@ -1,5 +1,5 @@
 # Financial domains
-![Finanacial Domains](/schen/onedrive/destop/image.jpg)
+![Finanacial Domains]()
 ## Map of domains
 ### Table of contents
 [google](https://www.google.ca)
